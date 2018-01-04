@@ -1,0 +1,14 @@
+Instructions to play Tic Tac Toe By Vaishali
+
+1. Open the file naming "Tic Tac Toe By Vaishali".
+
+2. X moves first.
+
+3. player 1 is supposed to enter the column number of his choice and then    click the button showing "player 1".
+  The column of his choice will be occupied by character "X".
+
+4. Now, player 2 is supposed to enter the column number of his choice and then click the button showing "player 2".
+  The column of his choice will be occupied by character "0".
+
+Note:  A player wins by being the first to connect a line of friendly pieces from one side or corner of the board to the other.
+The game ends when either one player wins or it is no longer possible for a player to win (in which case the result is a draw).
